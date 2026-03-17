@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhargavitare17-cell" alt="bhargavitare17-cell" /></a> </p>
 
-- 🌱 I’m currently learning **Data Visualization, Power BI, Data Warehouse, Pandas,Numpy**
+- 🌱 I’m currently learning **Data Visualization, Power BI, Data Warehouse, Pandas, Numpy**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bhargavitare17-cell](https://github.com/bhargavitare17-cell)
 
