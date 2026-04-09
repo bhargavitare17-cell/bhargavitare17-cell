@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhargavi Tare</h1>
 <h3 align="center">Aspiring data analytics developer using Python to learn, analyze, and grow.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhargavitare17-cell&label=Profile%20views&color=0e75b6&style=flat" alt="bhargavitare17-cell" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhargavitare17-cell&label=Profile%20views&color=0e75b6&style=flat" alt="bhargavi-insights" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhargavitare17-cell" alt="bhargavitare17-cell" /></a> </p>
 
