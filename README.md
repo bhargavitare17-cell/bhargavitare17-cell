@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Visualization, Power BI, Data Warehouse, Pandas, Numpy**
 
-- 👨‍💻 All of my projects are available at [https://github.com/bhargavitare17-cell](https://github.com/bhargavitare17-cell)
+- 👨‍💻 All of my projects are available at [https://github.com/bhargavi-insights](https://github.com/bhargavi-insights)
 
 - 📫 How to reach me **bhargavitare17@gmail.com**
 
